@@ -1,9 +1,8 @@
 
-- 🧱 码农
-- 🚀 求职
-- 🚀 chain
-- 🗃️ fortend
-- 📦️ Basic knowledge: https://Hetimepiece.github.io/
+- 🧱 我的目标:成为一个富有的人
+- 🚀 我的技术:非常的菜
+- 🚀 我的方向:frontend、chain
+- 🗃️ 我的主业:失业,没事的时候是个trader,有事的时候是个coder
 - 💬 Email：**hetimepiece@gmail.com**，Welcome to communicate!
 
 <!--
