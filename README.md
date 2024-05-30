@@ -1,4 +1,10 @@
-## Hi there 👋
+
+- 🧱 码农
+- 🚀 求职
+- 🚀 chain
+- 🗃️ fortend
+- 📦️ Basic knowledge: https://Hetimepiece.github.io/
+- 💬 Email：**hetimepiece@gmail.com**，Welcome to communicate!
 
 <!--
 **HeTimepiece/HeTimepiece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
